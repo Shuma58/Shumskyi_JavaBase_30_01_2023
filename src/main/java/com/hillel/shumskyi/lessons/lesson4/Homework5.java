@@ -18,8 +18,7 @@ public class Homework5 {
         int l = (liWarrior + liArcher + liCavalier) * eachTypeLi;
         double m = (miWarrior + miArcher + miCavalier) * eachTypeMi;
 
-        System.out.println("Загальний показник атаки династії Лі = " + l);
-        System.out.println("Загальний показник атаки династії Мінь = " + (int)m);
-
+        System.out.println("Р—Р°РіР°Р»СЊРЅРёР№ РїРѕРєР°Р·РЅРёРє Р°С‚Р°РєРё РґРёРЅР°СЃС‚С–С— Р›С– = " + l);
+        System.out.println("Р—Р°РіР°Р»СЊРЅРёР№ РїРѕРєР°Р·РЅРёРє Р°С‚Р°РєРё РґРёРЅР°СЃС‚С–С— РњС– = " + m);
     }
 }
